@@ -1,0 +1,1 @@
+CodeMirror 6 package is intentionally NOT bundled in this release: the build environment cannot access npm/CDN. Editor falls back to an editable textarea. See root README.md for integration instructions.
